@@ -8,8 +8,8 @@ Mathematical Review of a paper in which the number n is proved (or cited properl
 <b>Definition</b>. A number n is called a Cayley number if all vertex-tranitive graphs of order n are Cayley graphs.
 
 ## Folders
-| Folder                   |
-|:-------------------------|
-| [Data](Data)             |
-| [GAPCodes](GAPCodes)     |
-| [References](References) |
+| Folder                   | Explanation                                                              |
+|:-------------------------|:-------------------------------------------------------------------------|
+| [Data](Data)             | List of all known Cayley, non-Cayley, and undetermined numbers by 10 ^ 6 |
+| [GAPCodes](GAPCodes)     | A GAP function to test whether a given number is a Cayley number         |
+| [References](References) | References on Cayley numbers                                             |
