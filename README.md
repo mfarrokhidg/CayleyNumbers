@@ -10,5 +10,5 @@ Mathematical Review of a paper in which the number n is proved (or cited properl
 ## Folders
 | Folder       |
 |:--------------|
-| [GAP Code](GAP Code)   |
+| [GAPCodes](GAPCodes)   |
 | [References](References) |
